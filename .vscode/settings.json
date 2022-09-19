@@ -1,0 +1,9 @@
+{
+	"editor.wordWrap": "wordWrapColumn",
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"css.validate": false,
+	"less.validate": false,
+	"scss.validate": false,
+	"css.completion.triggerPropertyValueCompletion": true
+}

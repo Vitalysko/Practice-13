@@ -5,5 +5,8 @@
 	"css.validate": false,
 	"less.validate": false,
 	"scss.validate": false,
-	"css.completion.triggerPropertyValueCompletion": true
+	"css.completion.triggerPropertyValueCompletion": true,
+	"stylelint.config": {
+	
+	}
 }

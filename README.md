@@ -2,3 +2,5 @@
 
 -EditorConfig
 -Prettier
+StyleLlint
+Eslint
